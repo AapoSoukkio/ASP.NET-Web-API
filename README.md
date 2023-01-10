@@ -16,7 +16,7 @@ The purposes of this project are:
 
 ## About the project
 
-This project is about a ASP.NET Web API to handle university course enrollments. There is basic CRUD (Create, Read, Update and Delete) endpoints to handle the data.
+This project is about a ASP.NET Web API which handles university course enrollments. There is basic CRUD (Create, Read, Update and Delete) endpoints to handle the data.
 Uses default ASP.NET conventions for the implementation and uses web api with controllers for the endpoints. Uses the given data to implement the endpoints.
 The project uses Swagger to test and show the functionality of the program.
 
